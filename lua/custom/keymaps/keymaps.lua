@@ -1,3 +1,5 @@
+local map = vim.keymap.set
+
 -- rest keymaps
 map('n', '<leader>o', 'o<ESC>')
 map('n', '<leader>O', 'O<ESC>')
